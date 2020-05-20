@@ -21,8 +21,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = 'pkz2n8y2-rk9wp43q#mlsp3x-(mfxarffp!$qsu(&2iu%w#996'
-LINE_CHANNEL_ACCESS_TOKEN = '你的 CHANNEL_ACCESS_TOKEN'
-LINE_CHANNEL_SECRET = '你的 CHANNEL_SECRET'
+LINE_CHANNEL_ACCESS_TOKEN = '83ef582f-f45c-43e6-a22c-7771efa3f497'
+LINE_CHANNEL_SECRET = '18c4fcabe3daa48e6f512fc4cab74950'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
